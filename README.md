@@ -39,3 +39,7 @@ Dynamic YTD / QTD revenue aggregations (TOTALYTD, TOTALQTD, DATESYTD).
 Relative percentage contribution (DIVIDE, ALLSELECTED).
 
 Design & UI Architecture: Custom dark neon interface built with high visual hierarchy, styled containers, consistent typography, custom-aligned matrix padding, and custom branding.
+
+Screenshot 
+https://github.com/Harsh-138/Sales-Analysis-of-Online-Shop/blob/main/Dashboard%20View.png
+
